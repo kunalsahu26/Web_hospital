@@ -57,7 +57,7 @@ header{
     background-image: linear-gradient(to right
     rgba (18, 172, 142, .9),
     rgba(18, 172, 142, .7));
-    background:url(9.jpg);
+    background:url(images/9.jpg);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -526,4 +526,5 @@ header{
         gap:1rem;
     }
 }
+
         
